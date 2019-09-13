@@ -1,6 +1,6 @@
 #particle-js {
     position: fixed;
-    background: #ececec;
+    background: rgba(184, 206, 230, 0.5);
     height: 100%;
     width: 100%;
     z-index: -1;
